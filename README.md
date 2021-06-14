@@ -28,4 +28,4 @@ Accuracy achieved:
 - oob : 0.511164730330967
 - valid : 0.5086740848732072
 
-Despite the significant differences between the factor performances in the three sets, the AI APLHA is able to deliver positive performance.
+Despite the significant differences between the factor performances in the three sets, the AI APLHA was able to deliver positive performance on the given dataset.
